@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/kalashnykbohdan/goit-react-test/precache-manifest.172d681e22c65686ca9c1a1faab96ba6.js"
+  "/kalashnykbohdan/goit-react-test/precache-manifest.ad7dc7f722714712ba6988cc91e87f62.js"
 );
 
 self.addEventListener('message', (event) => {
