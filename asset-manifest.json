@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/kalashnykbohdan/goit-react-test/static/js/main.cf0115dc.chunk.js",
-    "main.js.map": "/kalashnykbohdan/goit-react-test/static/js/main.cf0115dc.chunk.js.map",
+    "main.js": "/kalashnykbohdan/goit-react-test/static/js/main.5b324ea8.chunk.js",
+    "main.js.map": "/kalashnykbohdan/goit-react-test/static/js/main.5b324ea8.chunk.js.map",
     "runtime-main.js": "/kalashnykbohdan/goit-react-test/static/js/runtime-main.bc1ab0e6.js",
     "runtime-main.js.map": "/kalashnykbohdan/goit-react-test/static/js/runtime-main.bc1ab0e6.js.map",
     "static/js/2.73953ea2.chunk.js": "/kalashnykbohdan/goit-react-test/static/js/2.73953ea2.chunk.js",
     "static/js/2.73953ea2.chunk.js.map": "/kalashnykbohdan/goit-react-test/static/js/2.73953ea2.chunk.js.map",
     "index.html": "/kalashnykbohdan/goit-react-test/index.html",
-    "precache-manifest.789dc6628d9ee70b981d6278da4577ff.js": "/kalashnykbohdan/goit-react-test/precache-manifest.789dc6628d9ee70b981d6278da4577ff.js",
+    "precache-manifest.172d681e22c65686ca9c1a1faab96ba6.js": "/kalashnykbohdan/goit-react-test/precache-manifest.172d681e22c65686ca9c1a1faab96ba6.js",
     "service-worker.js": "/kalashnykbohdan/goit-react-test/service-worker.js",
     "static/js/2.73953ea2.chunk.js.LICENSE.txt": "/kalashnykbohdan/goit-react-test/static/js/2.73953ea2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bc1ab0e6.js",
     "static/js/2.73953ea2.chunk.js",
-    "static/js/main.cf0115dc.chunk.js"
+    "static/js/main.5b324ea8.chunk.js"
   ]
 }

@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-test"]=this["webpackJsonpgoit-react-test"]||[]).push([[0],[,,,function(t,e,n){t.exports=n(4)},function(t,e,n){"use strict";n.r(e);var a=n(0),c=n.n(a),r=n(2),o=n.n(r),i=c.a.createElement("h2",null,"Tacos With Lime"),s=c.a.createElement("p",null,"Price: 10.99$"),l=c.a.createElement("button",{type:"button"},"Add to cart"),u=c.a.createElement("div",{children:[i,s,l]});o.a.render(u,document.getElementById("root"))}],[[3,1,2]]]);
+//# sourceMappingURL=main.5b324ea8.chunk.js.map
